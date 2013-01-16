@@ -112,7 +112,7 @@ namespace Dances_Words_Algorithm
         }// Phase-9
 
         private void Phase10()
-        {גכשדגכשכג
+        {
             lblPhase8.Enabled = true;
 //Omri Merging Test
         }// Phase-10
