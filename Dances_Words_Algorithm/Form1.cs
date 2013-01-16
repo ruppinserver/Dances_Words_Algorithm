@@ -102,5 +102,19 @@ namespace Dances_Words_Algorithm
             lblPhase8.Text += "   |DONE|";
             lblPhase8.Enabled = false;
         }// Phase-8
+
+        private void Phase9()
+        {
+            lblPhase8.Enabled = true;
+            matrix.populateMatrix();
+            lblPhase8.Text += "   |DONE|";
+            lblPhase8.Enabled = false;
+        }// Phase-9
+
+        private void Phase10()
+        {
+            lblPhase8.Enabled = true;
+//Omri Merging Test
+        }// Phase-10
     }// Class
 }// Namespace
